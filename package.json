@@ -14,9 +14,11 @@
   "dependencies": {
     "compression": "^1.7.3",
     "express": "^4.16.4",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "newrelic": "^5.6.0"
   },
   "devDependencies": {
+    "artillery": "^1.6.0-27",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
     "http-proxy-middleware": "^0.19.1"
   }
